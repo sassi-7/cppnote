@@ -2,3 +2,10 @@
 !.gitignore
 
 chapter*/*exe
+*exe
+
+dtest/*exe
+sort/*exe
+
+test.cpp
+test
